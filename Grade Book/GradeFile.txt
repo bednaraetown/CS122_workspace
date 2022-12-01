@@ -1,0 +1,120 @@
+Jessica Criswell
+  98  91  91  83
+Jason Cusick
+  89  92  88  79
+Joshua Diehl
+  85  94  91  89
+Marlana Batdorf
+  78  75  0  0
+Rebecca Brindle
+  84  94  87  69
+William Cramer
+  90  91  91  90
+Matthew Dorman
+  83  98  92  91
+Kellie Eberly
+  97  99  87  91
+Timothy Finch
+  84  93  85  74
+Eli Ghiorzi
+  80  88  82  79
+Rachel Gordan
+  89  95  92  88
+James Grove
+  90  96  67  79
+Guglielmo Marconi
+  83  89  84  83
+BreeAnne Harris
+  81  89  94  85
+Mike Matincheck
+  68  66  78  68
+Alen McCarty
+  91  98  89  78
+Bryan Kevorkov
+  85  95  74  77
+Adam Lehman
+  93  100  91  88
+Ryan Martin
+  89  99  96  92
+Melissa McNichols
+  91  98  86  86
+Keith Nichols
+  93  97  88  84
+Joshua Nocito
+  69  97  73  72
+Brent Peters
+  73  83  78  83
+Douglas Planey
+  77  81  88  83
+Mica Bopp
+  94  93  91  84
+Hans Alone
+  84  99  94  89
+Ethan Campbell
+  91  90  67  79
+Erin Eisenhart
+  89  93  94  94
+Luke Skywriter
+  78  85  73  79
+Kelly Glasby
+  75  96  63  85
+Great Gatsby
+  98  93  95  94
+Mike Grady
+  84  73  92  93
+Kris Gudleski
+  97  99  96  95
+Carol Klingberg
+  80  95  93  89
+Lutricia Krivonak
+  84  86  89  84
+Kristin Leary
+  87  90  62  88
+Chris Lowe
+  61  72  52  61
+Rich Mangels
+  90  76  83  90
+Jared Mansfield
+  76  99  89  82
+Thomas Martin
+  100  93  89  91
+Kristy Neiderer
+  96  81  92  86
+David Pittinger
+  81  85  54  79
+Stephanie Scholvin
+  89  78  74  84
+Scott Sellars
+  95  98  84  88
+Doctr Who
+  84  88  77  85
+Lipizan Shankweiler
+  90  83  83  96
+Brian Sweeney
+  85  84  65  87
+Ken Thieler
+  89  98  88  93
+Becky Timmins
+  86  78  55  63
+Jen Tomaselli
+  88  88  89  88
+Willy Vaughan
+  100  100  97  95
+What Why
+  76  81  74  86
+Chris Ziegler
+  97  93  94  99
+Jason Zmroczek
+  96  100  93  93
+Bryan Kordich
+  60  80  56  75
+Jennifer Kulak
+  69  97  73  72
+Kevin Polaski
+  73  83  78  83
+Angela Sherman
+  77  81  88  83
+William Stutting
+  94  93  91  84
+Joshua Austin
+  84  99  94  89
